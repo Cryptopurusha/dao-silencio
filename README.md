@@ -1,2 +1,2 @@
 # dao-silencio
-legal machinery
+legal machinery for capital calls in investment fund
